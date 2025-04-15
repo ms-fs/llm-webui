@@ -1,3 +1,10 @@
+'''
+    ollama pull nomic-embed-text
+    ollama run llama3.2
+
+'''
+
+
 import streamlit as st
 import hashlib
 import os
